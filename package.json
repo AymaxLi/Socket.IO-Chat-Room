@@ -1,0 +1,26 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "a chat room by Socket.IO",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymaxLi/Socket.IO-Chat-Room.git"
+  },
+  "keywords": [
+    "socket",
+    "chatroom",
+    "nodejs"
+  ],
+  "author": "AymaxLi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymaxLi/Socket.IO-Chat-Room/issues"
+  },
+  "homepage": "https://github.com/AymaxLi/Socket.IO-Chat-Room#readme"
+}
